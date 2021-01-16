@@ -1,4 +1,4 @@
-# oneui-vue-edition
+# Werawan Admin Template with : oneui-vue-edition
 
 ## Project setup
 ```
